@@ -16,7 +16,7 @@
 
 ### Photograph #1: Try not to get caught in the headlights.
 
----
+---?color=#e49436
 
 It's so easy to get lost in the image that you are editing.
 
@@ -49,7 +49,7 @@ The same can happen with your product. <br/>
 You can put all of this time and work into a feature that you think is going to blow the market away. 🔥 <br/>
 But you can get to d-day and realise that your users are using your product in a totally unexpected or unintentional way. <br/>
 
----
+---?color=#e49436
 
 Always pay attention to your user, yo!
 
