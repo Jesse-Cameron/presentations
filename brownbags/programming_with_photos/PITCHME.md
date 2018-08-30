@@ -1,6 +1,6 @@
 <!-- https://gitpitch.com/jesse-cameron/presentations/photography?p=brownbags/programming_with_photos#/ -->
 
-# @size[2em]WAYS PHOTOGRAPHY MADE ME A BETTER DEVELOPER
+# WAYS PHOTOGRAPHY MADE ME A BETTER DEVELOPER
 
 ---
 
