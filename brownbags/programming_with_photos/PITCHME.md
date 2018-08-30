@@ -4,12 +4,24 @@
 
 ---
 
-#### In this presentation:
+#### `whoami`
 
 @ul
- - I've been a `developer` and a `photographer` for roughly 5 years (each).
- - There are a couple photographs I've taken which have taught me lessons beyond _just_ photography.
- - None of these lessons are amazingly ground breaking. But, another perspective never hurts.
+- I've been a `developer` and a `photographer` for roughly 5 years (each).
+- Currently I'm:
+    - Junior Developer at Localz 💼
+    - Volunteer Developer for Robogals 🤖
+    - Proud plant dad 🌱
+@ulend
+
+
+
+
+#### What is heck is this talk about?!:
+
+@ul
+- There are a couple photographs I've taken which have taught me lessons beyond _just_ photography.
+- None of these lessons are amazingly ground breaking. But, another perspective never hurts.
 @ulend
 
 ---
