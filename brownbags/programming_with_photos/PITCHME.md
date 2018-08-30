@@ -14,10 +14,10 @@
     - Proud plant dad 🌱
 @ulend
 
+---
 
 
-
-#### What is heck is this talk about?!:
+#### What in heck is this talk about?!:
 
 @ul
 - There are a couple photographs I've taken which have taught me lessons beyond _just_ photography.
