@@ -7,15 +7,15 @@
 #### `whoami`
 
 @ul
+- Jesse Cameron
 - I've been a `developer` and a `photographer` for roughly 5 years (each).
 - Currently I'm:
     - Junior Developer at Localz 💼
     - Volunteer Developer for Robogals 🤖
-    - Proud plant dad 🌱
+    - Proud Plant Dad 🌱
 @ulend
 
 ---
-
 
 #### What in heck is this talk about?!:
 
