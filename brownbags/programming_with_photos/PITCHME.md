@@ -17,7 +17,7 @@
 
 ---
 
-#### What in heck is this talk about?!:
+##### What in heck is this talk about?!:
 
 @ul
 - There are a couple photographs I've taken which have taught me lessons beyond _just_ photography.
@@ -26,13 +26,33 @@
 
 ---
 
-### Photograph #1: Try not to get caught in the headlights.
+##### Photograph #1: Try not to get caught in the headlights.
+
+---
+There are occasionally photos that push your skill level up a notch. 
+
+---
+<!-- image -->
+IMAGE HERE
+This is one of them.
+---
 
 ---?color=#e49436
 
 It's so easy to get lost in the image that you are editing.
 
-<!-- image -->
++++
+
+Similarly, when developing Software it's easy to get lost in the task you're working on.
+
++++
+
+Which can result in:
+
+@ul
+- Over optimisation.
+- Pre-mature optimisation
+@ulend
 
 ---
 
@@ -41,8 +61,9 @@ You can get lost in code your working on without considering the larger context 
 
 ---
 
-Take a moment. Breath. Walk away from what you are doing.
-Come back to it with a fresh perspective.
+Take a moment. <br/>
+Breath. Walk away from what you are doing. <br/>
+Come back to it with a fresh perspective. <br/>
 
 ---
 
