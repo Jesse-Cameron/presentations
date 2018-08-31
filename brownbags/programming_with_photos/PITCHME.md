@@ -4,7 +4,7 @@
 
 ---
 
-#### `whoami`
+## `whoami`
 
 @ul
 - Jesse Cameron
@@ -17,7 +17,7 @@
 
 ---
 
-##### What in heck is this talk about?!:
+### What in heck is this talk about?!:
 
 @ul
 - There are a couple photographs I've taken which have taught me lessons beyond _just_ photography.
@@ -26,7 +26,7 @@
 
 ---
 
-##### Photograph #1: Try not to get caught in the headlights.
+## Photograph #1: Try not to get caught in the headlights.
 
 ---
 
@@ -75,7 +75,7 @@ Come back to it with a fresh perspective. <br/>
 
 ---
 
-### Photo #2: You and your audience likely won't agree on what's great.
+## Photo #2: You and your audience likely won't agree on what's great.
 
 ---
 
@@ -96,5 +96,5 @@ Always pay attention to your user, yo!
 
 ---
 
-### Photo #3: Less surface area === less chance to f*ck something up.
+## Photo #3: Less surface area === less chance to f*ck something up.
 
