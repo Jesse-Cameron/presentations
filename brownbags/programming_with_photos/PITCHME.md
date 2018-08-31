@@ -29,13 +29,21 @@
 ##### Photograph #1: Try not to get caught in the headlights.
 
 ---
-There are occasionally photos that push your skill level up a notch. 
+
+If you take photos for long enough with intent. There will occasionally be photos that push your skill level up a notch.
 
 ---
+
 <!-- image -->
 IMAGE HERE
 This is one of them.
----
+
+Note:
+
+- I was in a darkroom
+- Easy to focus on one aspect of an image when you are 
+- Once you take your print out of the darkroom you'll see it in a different light
+- Later reflected that it wasn't the image that I envisioned.
 
 ---?color=#e49436
 

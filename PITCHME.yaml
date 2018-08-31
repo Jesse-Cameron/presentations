@@ -1,4 +1,4 @@
+layout : center-left
 theme-override : assets/css/PITCHME.css
 code-line-numbers : true
 footnote : "© 2018 Jesse Cameron"
-layout : center-left
