@@ -30,7 +30,7 @@
 ## Try not to get caught in the headlights.
 
 ---
-_Context_
+_Context_: <br/>
 If you take photos for long enough with intent. There will occasionally be photos that push your skill level up a notch.
 
 ---
