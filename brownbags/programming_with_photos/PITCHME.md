@@ -17,7 +17,7 @@
 
 ---
 
-### What in heck is this talk about?!:
+### What in heck is this talk about?!
 
 @ul
 - There are a couple photographs I've taken which have taught me lessons beyond _just_ photography.
@@ -26,10 +26,11 @@
 
 ---
 
-## Photograph #1: Try not to get caught in the headlights.
+## Photograph #1:
+## Try not to get caught in the headlights.
 
 ---
-
+_Context_
 If you take photos for long enough with intent. There will occasionally be photos that push your skill level up a notch.
 
 ---
@@ -64,7 +65,6 @@ Which can result in:
 
 ---
 
-When you first start developing code it's easy to over optimise your code. <br/>
 You can get lost in code your working on without considering the larger context <br/>
 
 ---
@@ -75,7 +75,8 @@ Come back to it with a fresh perspective. <br/>
 
 ---
 
-## Photo #2: You and your audience likely won't agree on what's great.
+## Photo #2:
+## You and your audience likely won't agree on what's great.
 
 ---
 
