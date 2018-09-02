@@ -129,8 +129,21 @@ In development, you might be trying to solve a consumers pain. <br/>
 
 ---
 
+Focus on the MVP and solve for that. <br/>
 Learn to deliver and improve on your results <br/>
-Focus on the MVP and solve for that.
 
----
+---?color=#e49436
 
+## Conclusion
+
+@ul
+- Don't get caught in the headlines.
+    - Take a moment.
+    - Breathe.
+    -  Come back with a clear mind.
+- Pay attention to your users.
+- Focus on delivering MVP _then_ improving
+- Ultimately, never forget that this is a journey.
+    - You aren't going to become a genius overnight
+    - Let me stress this, _you aren't going to become a genius overnight_
+@ulend
