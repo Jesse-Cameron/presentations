@@ -110,7 +110,7 @@ Note:
 
 - There are very few rules of soft engineering that I actually 'abide by'. 
 - This is one of them.
-- Time and time again. Less code means less chance of introducing bugs. 
+- Time and time again. Less code means less surface area for bugs means less bugs.
 
 ---
 
