@@ -60,17 +60,19 @@ Which can result in:
 
 @ul
 - Over optimisation.
-- Pre-mature optimisation
+- Early optimisation.
+- Building features that are unnecessary.
 @ulend
 
 ---
 
-You can get lost in code your working on without considering the larger context <br/>
+You can get lost in code your working on without considering the larger context.
 
 ---
 
 Take a moment. <br/>
-Breath. Walk away from what you are doing. <br/>
+Breath. <br/>
+Walk away from what you are doing. <br/>
 Come back to it with a fresh perspective. <br/>
 
 ---
@@ -80,8 +82,12 @@ Come back to it with a fresh perspective. <br/>
 
 ---
 
-Here are two of my images
+I'm going to show you two images.
 One of them definitely has a special place in my heart. Which I thought would resonate with my audience. The other not so much.
+
+---
+
+Images here:
 
 <!-- image -->
 
@@ -97,5 +103,34 @@ Always pay attention to your user, yo!
 
 ---
 
-## Photo #3: Less surface area === less chance to f*ck something up.
+## Photo #3:
+## Less surface area === less chance to f*ck something up.
+
+Note:
+
+- There are very few rules of soft engineering that I actually 'abide by'. 
+- This is one of them.
+- Time and time again. Less code means less chance of introducing bugs. 
+
+---
+
+Perfection is kinda BS. <br/>
+It's a highly _unlikely_ end state.
+
+---
+
+IMAGE HERE
+
+---
+
+Most of the time, the best you are going to get is solving for a specific situation. <br/>
+In photography, this might be trying to elicit a specific _feeling_ from your viewer. <br/>
+In development, you might be trying to solve a consumers pain. <br/>
+
+---
+
+Learn to deliver and improve on your results <br/>
+Focus on the MVP and solve for that.
+
+---
 
