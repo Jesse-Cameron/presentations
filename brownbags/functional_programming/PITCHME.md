@@ -20,17 +20,20 @@ Let's get down to what makes the real functional stuff work.
 
 Chances are: a lot of us are using a lot of functional programming concepts in our apps/apis/sdks already.
 
-- map
-- filter
-- reduce
+@ul
+- map/filter/reduce
+- Object Spread
+@ulend
 
 +++
 
 But, are there ways that we can use it to unlock these skills:
 
+@ul
 - readability
 - testability
 - together we get: confidence
+@ulend
 
 Note:
 
@@ -41,7 +44,13 @@ As a software engineer, having confidence in your software is paramount.
 #### What are side effect?
 
 When people talk about functional programming, you'll hear constantly:
-No side effects
+_No Side Effects_
 
+But what the heck even is that? 
+Is it like a medicine?
+
+Note:
+
+Insert casual dig a OO programming.
 
 
