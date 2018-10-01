@@ -1,18 +1,28 @@
+<!-- https://gitpitch.com/jesse-cameron/presentations/functional-programming?p=brownbags/functional_programming#/ -->
+
 # Functional Programming
 
 ---
 
 #### What even is Functional Programming?
 
-Look, I actually don't really know myself. I think that the meme is that the won't really understand functional programming until you do Haskell.
+Look, I don't consider myself an expert. What I do know is:
+
+
+I think that the meme is that the won't really understand functional programming until you do Haskell.
+
++++
 
 @ul
 - monads
 - functors
 - applicatives
 @ulend
+
++++
+
 Nah, miss me with that BS.
-Let's get down to what makes the real functional stuff work.
+Let's get down to what makes the _real_ functional stuff work.
 
 ---
 
