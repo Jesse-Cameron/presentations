@@ -23,7 +23,7 @@ What makes up a Functional Language:s
 
 +++
 
-Nah, miss me with that BS.
+**Nah,** miss me with that **BS**.
 Let's get down to what makes the _real_ functional stuff work.
 
 ---
