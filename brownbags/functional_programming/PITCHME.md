@@ -6,12 +6,14 @@
 
 #### What even is Functional Programming?
 
-Look, I don't consider myself an expert. What I do know is:
-
-
-I think that the meme is that the won't really understand functional programming until you do Haskell.
+- it's been around since like the _50's..._
+- Languages like Haskell, Clojure, Erlang
+- it's _really_ hot right now because of JS
+    - But is JS even a functional language?
 
 +++
+
+What makes up a Functional Language:s
 
 @ul
 - monads
