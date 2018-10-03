@@ -15,7 +15,7 @@
 
 What makes up a Functional Language:s
 
-@ul
+@ul[arrow]
 - monads
 - functors
 - applicatives
@@ -30,7 +30,7 @@ Let's get look at _real, practical_ functional prorgamming.
 
 There are two major principles that we are going to go over:
 
-@ol
+@ol[alpha]
 - reducing side effects / using pure side effect
 - immutable data structures 
 @olend
