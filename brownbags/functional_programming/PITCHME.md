@@ -23,8 +23,31 @@ What makes up a Functional Language:s
 
 +++
 
-**Nah,** miss me with that **BS**.
-Let's get down to what makes the _real_ functional stuff work.
+**Nah,** miss me with that **BS**. </br>
+Let's get look at _real, practical_ functional prorgamming.
+
+---
+
+There are two major principles that we are going to go over:
+
+@ul
+1. reducing side effects / using pure side effect
+2. immutable data structures 
+@ulend
+
++++
+
+The goals :
+
+@ul
+- readability
+- testability
+- together we get: confidence
+@ulend
+
+Note:
+
+As a software engineer, having confidence in your software is paramount.
 
 ---
 
@@ -36,20 +59,6 @@ Chances are: a lot of us are using a lot of functional programming concepts in o
 - map/filter/reduce
 - Object Spread
 @ulend
-
-+++
-
-But, are there ways that we can use it to unlock these skills:
-
-@ul
-- readability
-- testability
-- together we get: confidence
-@ulend
-
-Note:
-
-As a software engineer, having confidence in your software is paramount.
 
 ---
 
