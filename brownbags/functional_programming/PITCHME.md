@@ -31,8 +31,8 @@ Let's get look at _real, practical_ functional prorgamming.
 There are two major principles that we are going to go over:
 
 @ol
-1. reducing side effects / using pure side effect
-2. immutable data structures 
+- reducing side effects / using pure side effect
+- immutable data structures 
 @olend
 
 +++
