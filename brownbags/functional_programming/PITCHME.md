@@ -4,11 +4,11 @@
 
 ---
 
-#### What even is Functional Programming?
+#### What even is Functional Programming (FP)?
 
-- it's been around since like the _50's..._
+- FP has been around since like the _50's..._
 - Languages like Haskell, Clojure, Erlang
-- it's _really_ hot right now because of JS
+- FP is _really_ hot right now because of JS
     - But is JS even a functional language?
 
 +++
@@ -30,10 +30,10 @@ Let's get look at _real, practical_ functional prorgamming.
 
 There are two major principles that we are going to go over:
 
-@ul
+@ol
 1. reducing side effects / using pure side effect
 2. immutable data structures 
-@ulend
+@olend
 
 +++
 
